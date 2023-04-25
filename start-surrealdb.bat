@@ -1,0 +1,1 @@
+surreal start --log trace --user root --pass root -b 127.0.0.1:8000 --memmory --strict
