@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
->  A simple bat script file for local development use of SurrealDB on Windows.
+>  A simple bat script file for local development use of SurrealDB.
 
 ---
 
